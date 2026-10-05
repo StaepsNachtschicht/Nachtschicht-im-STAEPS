@@ -1,6 +1,6 @@
 
 const SITE = {
-  registrationUrl: "#ANMELDEFORMULAR-HIER-EINTRAGEN",
+  registrationUrl: "https://studip.uni-goettingen.de/dispatch.php/search/globalsearch?q=ST%C3%84PS+-+Nachtschicht",
   contactEmail: "staeps.nachtschicht@med.uni-goettingen.de",
   nextDate: "28.10.2026"
 };
